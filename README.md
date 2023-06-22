@@ -1,6 +1,6 @@
 # NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
 This project clusters Netflix movies and TV shows based on attributes like ratings, genres, and release years. It helps users find similar content and provides insights for content creators. Python code includes data preprocessing, feature engineering, model selection, and evaluation.
-![Netflix]([path/to/image.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1.colliderimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F11%2Fnetflix-most-popular-shows.jpg&tbnid=nDHt4GpSQ6pZKM&vet=12ahUKEwiHvZ-p6Nb_AhWIqGMGHWrVBfIQMygaegUIARCeAg..i&imgrefurl=https%3A%2F%2Fcollider.com%2Ftop-10-netflix-tv-shows-list%2F&docid=FI5_83LcMqIqAM&w=1400&h=700&q=netflix&ved=2ahUKEwiHvZ-p6Nb_AhWIqGMGHWrVBfIQMygaegUIARCeAg))
+![Netflix]([[path/to/image.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1.colliderimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F11%2Fnetflix-most-popular-shows.jpg&tbnid=nDHt4GpSQ6pZKM&vet=12ahUKEwiHvZ-p6Nb_AhWIqGMGHWrVBfIQMygaegUIARCeAg..i&imgrefurl=https%3A%2F%2Fcollider.com%2Ftop-10-netflix-tv-shows-list%2F&docid=FI5_83LcMqIqAM&w=1400&h=700&q=netflix&ved=2ahUKEwiHvZ-p6Nb_AhWIqGMGHWrVBfIQMygaegUIARCeAg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3Wuik81ydHoXRioBhRlpyR7I_hsbmt05TA&usqp=CAU))
 
 
 ## Overview
