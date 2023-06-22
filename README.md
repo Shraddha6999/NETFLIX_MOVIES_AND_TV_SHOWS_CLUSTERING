@@ -1,7 +1,6 @@
 # NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
 This project clusters Netflix movies and TV shows based on attributes like ratings, genres, and release years. It helps users find similar content and provides insights for content creators. Python code includes data preprocessing, feature engineering, model selection, and evaluation.
-![Image Description](![image](https://github.com/Shraddha6999/NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING/assets/123643720/4176fd95-194e-4963-8c42-9f1b80a1aff4)
-)
+![Netflix]([path/to/image.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1.colliderimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F11%2Fnetflix-most-popular-shows.jpg&tbnid=nDHt4GpSQ6pZKM&vet=12ahUKEwiHvZ-p6Nb_AhWIqGMGHWrVBfIQMygaegUIARCeAg..i&imgrefurl=https%3A%2F%2Fcollider.com%2Ftop-10-netflix-tv-shows-list%2F&docid=FI5_83LcMqIqAM&w=1400&h=700&q=netflix&ved=2ahUKEwiHvZ-p6Nb_AhWIqGMGHWrVBfIQMygaegUIARCeAg))
 
 
 ## Overview
